@@ -17,7 +17,7 @@ Também conclui alguns curso na Udemy, como:
 Estas são algumas ferramentas com as quais tive contato e estou me desenvolvendo:
 <br></br>
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" hspace="20"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" hspace="20"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="40" height="40" hspace="20"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" hspace="20"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" hspace="20"/> <img loading="lazy" src="" width="40" height="40" hspace="20" />
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" hspace="20"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" hspace="20"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="40" height="40" hspace="20"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" hspace="20"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" hspace="20"/>
 <!--
 **pamtelles/pamtelles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
